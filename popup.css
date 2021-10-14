@@ -1,0 +1,22 @@
+body {
+  width: 400px;
+  height: auto;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+#card {
+  width: 400px !important;
+  height: auto !important;
+}
+
+#card * {
+  margin: 0 auto;
+}
+
+#card h3 {
+  text-align: center;
+  text-shadow: 1px 1px rgba(0, 0, 0, .5);
+  margin: 20px;
+}
